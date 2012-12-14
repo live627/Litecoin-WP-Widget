@@ -1,6 +1,6 @@
 === Bitcoin WordPress Widget ===
 Contributors: fanquake
-Donate link: 19JwctrVD9ozPDfiC4SHUYvDD1UdGaczS4
+Donate link: LhLCQ2nA2Uop9apHTrSiCQL79WfmCMY6gc
 Tags: Bitcoin
 Requires at least: 3.2
 Tested up to: 3.4
